@@ -9,5 +9,5 @@
 ## Certifications
 
 <div style="text-align: center;">
-  <img src="Certs/ethical-hacker-cisco.png" alt="Cisco Certified Ethical Hacker" width="100" style="margin-top: -15px;">
+  <img src="Certs/ethical-hacker-cisco.png" alt="Cisco Certified Ethical Hacker" width="100" style="position: relative; top: -15px;">
   <img src="Certs/eJPT.png" alt="eJPT" width="120">
