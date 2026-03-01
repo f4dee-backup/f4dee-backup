@@ -6,5 +6,9 @@
 
 ---
 
-# Certifications
-<img src="Certs/eJPT.png" alt="eJPT" width="100">
+## Certifications
+
+<p align="center">
+  <img src="Certs/eJPT.png" alt="eJPT" width="100">
+  <img src="Certs/ethical-hacker-cisco.png" alt="Cisco Certified Ethical Hacker" width="100">
+</p>
