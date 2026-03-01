@@ -9,6 +9,6 @@
 ## Certifications
 
 <p align="center">
-  <img src="Certs/ethical-hacker-cisco.png" alt="Cisco Certified Ethical Hacker" height="80">
-  <img src="Certs/eJPT.png" alt="eJPT" height="110">
+  <img src="Certs/ethical-hacker-cisco.png" alt="Cisco Certified Ethical Hacker" width="90">
+  <img src="Certs/eJPT.png" alt="eJPT" width="100">
 </p>
