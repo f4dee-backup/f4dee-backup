@@ -7,4 +7,4 @@
 ---
 
 # Certifications
-<img src="Certs/eJPT.png" alt="eJPT" width="150">
+<img src="Certs/eJPT.png" alt="eJPT" width="100">
