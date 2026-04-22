@@ -10,8 +10,8 @@
 
 <div style="text-align: center;">
   <img src="Certs/ethical-hacker-cisco.png" alt="Cisco Certified Ethical Hacker" width="95">
-  <img src="Certs/eJPT.png" alt="eJPT" width="110">
-  <img src="Certs/ICCA.png" alt="eJPT" width="110">
+  <img src="Certs/eJPT.png" alt="eJPT" width="100">
+  <img src="Certs/ICCA.png" alt="eJPT" width="100">
 
 ---
 
