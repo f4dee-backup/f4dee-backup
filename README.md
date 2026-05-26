@@ -12,6 +12,7 @@
   <img src="Certs/ethical-hacker-cisco.png" alt="Cisco Certified Ethical Hacker" width="95">
   <img src="Certs/eJPT.png" alt="eJPT" width="100">
   <img src="Certs/ICCA.png" alt="eJPT" width="100">
+  <img src="Certs/CRTA.png" alt="CRTA" width="100">
 
 ---
 
